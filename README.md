@@ -20,7 +20,7 @@ Baby incubator system to monitor health of baby and sending real time alerts via
 * Android studio
 
 ### Block Diagram
-
+![alt text](https://github.com/rupali139/Baby-Incubetor-using-IOT-and-AI/blob/main/Block-diagram.jpg)
 
 
 
