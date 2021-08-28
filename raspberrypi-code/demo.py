@@ -16,7 +16,7 @@ import os
 
 
 # Enter Your API key here
-myAPI = 'V9DJ66N23ZIZ8CTQ' 
+myAPI = 'Thingspeak-API-key' 
 # URL where we will send the data, Don't change it
 baseURL = 'https://api.thingspeak.com/update?api_key=%s' % myAPI 
 
