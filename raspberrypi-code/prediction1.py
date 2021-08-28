@@ -104,7 +104,7 @@ def get_label_index(tensor_pred):
     return index
 
 
-
+#read a data from audio mic
 os.system('arecord -D plughw:1,0 -d 6 -f S16_LE -c1 -r44100 -t wav signal_6s.wav')
 time.sleep(2)
 f=readFile("signal_6s.wav")
