@@ -19,4 +19,12 @@ Baby incubator system to monitor health of baby and sending real time alerts via
 * Libraries : Tensorflow 2.0, Adafruit
 * Android studio
 
+### Block Diagram
+
+
+
+
+### Demo
+https://user-images.githubusercontent.com/80756129/131204368-1405e70a-8186-47b5-996b-260446a733f9.mov
+
 
