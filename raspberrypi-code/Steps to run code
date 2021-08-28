@@ -1,1 +1,8 @@
-run model
+Copy Dataset
+Build a model on laptop
+Copy model in raspberrypi 
+Connect all sensors to raspberrypi
+Add thingspeak API key in demo.py
+Run demo.py script
+
+
